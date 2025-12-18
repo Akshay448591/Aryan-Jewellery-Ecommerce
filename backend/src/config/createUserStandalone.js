@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const User = require("../models/User");
 
 // Add your MongoDB URI here
-const MONGO_URI = "mongodb+srv://arjunyadav448591:448591@jewels.cb1wpze.mongodb.net/Jewels?appName=Jewels";
+const MONGO_URI = "mongodb+srv:example";
 
 const createUser = async () => {
   try {
