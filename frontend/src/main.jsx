@@ -6,7 +6,7 @@ import App from "./App.jsx";
 import { Toaster } from "sonner";
 
 // 🔹 Global styles (if you already have index.css keep it)
-import "./app.css";
+import "./App.css";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
